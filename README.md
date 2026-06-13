@@ -17,7 +17,7 @@
 - 🤖 Currently diving into **AI Automation, API Integration & Web Scraping**
 - 🌱 Learning: building intelligent agents, automating workflows, and extracting data at scale
 - 📜 Certified in **Docker** (RBK) and **Data Science Foundations** (IBM Cognitive Class)
-- 📫 Reach me: **benalimails@gmail.com** | [LinkedIn]([https://linkedin.com/in/ben-ali-adem](https://www.linkedin.com/in/adem-ben-ali-4535142b9/))
+- 📫 Reach me: **benalimails@gmail.com** | [LinkedIn](https://www.linkedin.com/in/adem-ben-ali-4535142b9/)
 - 🌍 Languages: Arabic (Native), French & English (Fluent)
 
 ---
