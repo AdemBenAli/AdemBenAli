@@ -18,7 +18,6 @@
 I'm an engineering student at **ESPRIT** and a full-stack developer who builds applications *and* the intelligent systems that automate around them. My focus is shifting toward **AI automation, API integration, and data analysis** — designing agents and pipelines that connect services, extract data, and turn it into something usable.
 
 - 🎓 Engineering student at **ESPRIT** (Full-Stack Development track)
-- 💼 Freelance Full-Stack Developer (2024–Present) — built a Doctor–Patient connection platform (React.js + Node.js + PostgreSQL), a cross-platform mobile app (React Native + Express), and a C#/.NET inventory management system
 - 🤖 Currently focused on **AI automation, workflow orchestration (n8n), API integrations, and web scraping** at scale
 - 📊 Building skills in **data analysis** with Python (Pandas, NumPy) and exploring applied machine learning
 - 📜 Certified: Docker (RBK), Data Science Foundations (IBM Cognitive Class), Scrum Fundamentals (SCRUMstudy), Microsoft AI Skills Fest 2026, Business Analysis Fundamentals (BALearning)
